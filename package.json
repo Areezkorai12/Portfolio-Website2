@@ -1,0 +1,16 @@
+{
+  "name": "portfolio-website",
+  "version": "1.0.0",
+  "description": "A multi-page static portfolio website with CI pipelines for code quality checks.",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo 'Add your start script here'",
+    "test": "echo 'Add your test script here'"
+  },
+  "author": "<your-name>",
+  "license": "ISC",
+  "devDependencies": {
+    "htmlhint": "^0.16.0",
+    "stylelint": "^15.0.0"
+  }
+}
